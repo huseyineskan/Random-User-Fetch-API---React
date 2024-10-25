@@ -8,7 +8,7 @@ The project uses the free API https://randomuser.me/api/. A new random user is d
 
 ## Screenshot
 
-![Uygulama Ekran Görüntüsü](https://github.com/huseyineskan/Rock-Paper-Scissors-Game/blob/main/screenshot.png)
+![Uygulama Ekran Görüntüsü](https://github.com/huseyineskan/Random-User-Fetch-API-React/blob/main/src/assets/screenshot.png)
 
 ### Features that can be added
 
